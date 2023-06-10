@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@waleedq/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A clone of the Lodash Javascript library for practice",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/waleedqu/lotide.git"
   },
-  "author": "",
+  "author": "Waleed Qureshi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/waleedqu/lotide/issues"
