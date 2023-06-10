@@ -10,6 +10,5 @@ const countLetters = function(string) {
   return letterCounts;
 
 };
-console.log(countLetters("Hi there everyone"));
 
 module.exports = countLetters;
