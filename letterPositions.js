@@ -31,3 +31,4 @@ return results;
 }
 console.log(letterPositions("hello there everyone in this planet"))
 console.log(letterPositions("Hi there"));
+assertArraysEqual(letterPositions("hello").e, [1]);
